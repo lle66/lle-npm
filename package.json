@@ -1,0 +1,19 @@
+{
+  "name": "lle-npm",
+  "version": "1.0.0",
+  "description": "测试生成包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lle66/lle-npm.git"
+  },
+  "author": "lle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lle66/lle-npm/issues"
+  },
+  "homepage": "https://github.com/lle66/lle-npm#readme"
+}
