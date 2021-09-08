@@ -1,6 +1,6 @@
 {
   "name": "lle-npm",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "测试生成包",
   "main": "index.js",
   "scripts": {
